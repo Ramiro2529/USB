@@ -1,0 +1,172 @@
+body{
+    font-family: sans-serif ! important; 
+    
+}
+
+.imagen-fondo{
+    background-image: url(../usb/imagenes/fondo.jpg);
+    height: 400px;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.mish1{
+	color: white;
+	font-size: 50px;
+	text-align: center;}
+
+
+.bordenav{
+	border-bottom:10px; 
+	border-color: white;
+}
+
+.centrar-texto{
+    text-align: center;
+    font-size: 20px;
+     
+}
+
+.negritas{
+	font-weight: bold;
+}
+
+.centradoimg{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.justificar{
+
+	text-align: justify; 
+}
+
+.btn{
+    background-color: #000 ! important; }
+
+    .seccion{
+
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+
+
+.tablas{
+
+	background-color: green;
+	border-style: solid;
+	color: green;
+}
+
+.esta{
+  padding: 7% 10%;
+}
+
+.letratab{
+
+font-size: 15px;
+
+}
+
+.linea{
+    border-style:solid; 
+    border-color: #fff !important;
+}
+.lineaC{
+    border:2px solid; 
+    border-color: #CE3636 !important;
+}
+.custom-icon {
+  font-size: 64px;
+  color : red;
+}
+
+.mish11{
+  color: black;
+  font-size: 10px;
+  text-align: center;
+}
+
+
+
+.icon{
+color: #fff ;
+padding:1rem ;
+}
+
+.icon:hover{
+  color: #D41515;
+}
+
+.carousel-item{
+  width: 100px;
+ height: 400px;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+.imgcarr{
+  height: 100px;
+    background-position: center center;
+    background-size: cover;
+
+
+
+}
+
+#footer{
+  padding: 100px;
+  text-align: center;
+  background-color: #000000;
+}
+
+/*Login*/
+#login{
+
+  padding:5% 35% 1% 35%;
+}
+#h1login{
+font-size:20px; 
+
+}
+
+.text-box{
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid #000000;
+
+}
+.text-box input{
+  border:none;
+  outline:none;
+  background:none;
+
+}
+
+
+/*Registro*/
+/*.mensajeErroneo{
+    color: red;
+}
+
+*/
+
+ .labeles{
+
+font-family:'Comic Sans MS';
+    font-size: 110%;
+    line-height: 24px;
+    color:#000;
+  
+    
+    letter-spacing: 4px;
+text-shadow: -2px -2px 0px #fff, 2px -2px 0px #fff, -2px 2px 0px #fff, 2px 2px 0px #fff;
+
+ }
+ 
